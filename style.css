@@ -1,0 +1,163 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Header Section */
+header {
+    background-color: #0000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 3em;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+/* Home Section */
+.home {
+    background-color: #000000;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.home p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+/* About Section */
+.about {
+    padding: 25px 0;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.about ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about ul li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+.projects{
+    padding: 25px 0;
+    background-color: #000000;
+    color: #ffffff;
+}
+/* Projects Section */
+/* General Styling for Projects */
+.project-card {
+    background-color: #fff;
+    padding: 15px;
+    color: #000000;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: self-start;
+}
+
+/* Tata Neu App Styling */
+.card-tata {
+    background-color: #f1f1f1;
+
+}
+
+/* Ranch Life App Styling */
+.card-ranch {
+    background-color: #e9f9f1;
+
+}
+
+/* Lake Nona App Styling */
+.card-nona {
+    background-color: #f9f0e9;
+
+}
+
+/* RemindSet App Styling */
+.card-remind {
+    background-color: #f1f1f1;
+
+}
+
+/* Selly App Styling */
+.card-selly {
+    background-color: #e9f9f1;
+}
+
+/* Caragy App Styling */
+.card-caragy {
+    background-color: #f9f0e9;
+}
+
+/* EmilkPro Enterprise App Styling */
+.card-emilk {
+    background-color: #f1f1f1;
+}
+
+/* AMCS Farmer App Styling */
+.card-amcs {
+    background-color: #f9f0e9;
+}
+
+/* Icon Styling for All Projects */
+.project-card i {
+    font-size: 2.5em;
+    color: #007bff;
+}
+
+/* Contact Section */
+.contact {
+    padding: 50px 0;
+    color: #fff;
+    background-color: #0000;
+    text-align: center;
+}
+
+.contact p {
+    font-size: 1.1em;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
